@@ -1,0 +1,76 @@
+.logo{
+    font-family: Webdings;
+    font-size: 150px;
+    color: red;
+  
+}
+
+.logo_text{
+    font-size: 150px;
+    /* color: rgb(20, 34, 157); */
+}
+
+
+/* .w:first-child{
+    color: red;
+}
+
+.w:last-child{
+    color: blue;
+}
+
+.w:nth-child(9){
+    color: purple;
+} */
+
+
+/* .w:nth-child(odd){
+    color: red;
+}
+
+.w:nth-child(even){
+    color: blue;
+} */
+
+
+/* .w:nth-child(5n+0){
+    color: red ;
+} */
+
+/* .exam{
+    font-family: Webdings;
+    font-size: 150px;
+} */
+
+
+.swm:link {
+    color: black;
+  }
+  
+  /* visited link */
+  .swm:visited {
+    color: #FF00FF;
+  }
+  
+  /* mouse over link */
+  .swm:hover {
+    color: grey;
+  }
+  
+  /* selected link */
+  .swm:active {
+    color: yellow;
+  }
+
+
+
+
+  .showImg {
+    display: none;
+    
+    padding: 20px;
+  }
+  
+  div:hover .showImg {
+    display: block;
+  }
